@@ -1,0 +1,56 @@
+# Secrets
+.env
+*.env
+*.token
+.credential*
+secret*
+
+# OpenClaw workspace
+.openclaw/
+workspace/
+.openclaw.env
+reviewed_prs.json
+
+# Results and logs
+results/
+*.log
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+temp_*
+*~
+
+# Local configuration
+config.local.*
+*.local.json
+AGENTS.md
+BOOTSTRAP.md
+HEARTBEAT.md
+IDENTITY.md
+SOUL.md
+TOOLS.md
+AGENTS.md
+BOOTSTRAP.md
+HEARTBEAT.md
+IDENTITY.md
+SOUL.md
+TOOLS.md
+USER.md

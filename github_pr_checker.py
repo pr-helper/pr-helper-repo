@@ -23,7 +23,7 @@ STATE_FILE = "/home/user1/.openclaw/workspace/reviewed_prs.json"  # Храним
 # Список репозиториев для проверки (добавляйте любые)
 REPOSITORIES = [
     "karanovon/hse_ap_hw_p_3",
-    # "karanovon/another-repo",      # раскомментируйте для добавления
+    "25-77/Year_project",
     # "username/your-repo",           # добавляйте другие репозитории
 ]
 
